@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+
+ 		<alphabets>
+            <title>Aa</title>
+            <instance>Aa</instance>
+            <upper>APPLE</upper>
+			<lower>apple</lower>
+        </alphabets> 
+		
+		<alphabets>
+            <title>Bb</title>
+            <instance>Bb</instance>
+            <upper>BALLOON</upper> 
+			<lower>balloon</lower>
+        </alphabets> 
+		
+		<alphabets>
+			<title>Cc</title>
+            <instance>Cc</instance>
+            <upper>CAKE</upper> 
+			<lower>cake</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Dd</title>
+            <instance>Dd</instance>
+            <upper>DOG</upper> 
+			<lower>dog</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ee</title>
+            <instance>Ee</instance>
+            <upper>ELEPHANT</upper> 
+			<lower>elephant</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ff</title>
+            <instance>Ff</instance>
+            <upper>FISH</upper> 
+			<lower>fish</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Gg</title>
+            <instance>Gg</instance>
+            <upper>GRAPE</upper> 
+			<lower>grape</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Hh</title>
+            <instance>Hh</instance>
+            <upper>HORSE</upper> 
+			<lower>horse</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ii</title>
+            <instance>Ii</instance>
+            <upper>ICE</upper> 
+			<lower>ice</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Jj</title>
+            <instance>Jj</instance>
+            <upper>JUICE</upper> 
+			<lower>juice</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Kk</title>
+            <instance>Kk</instance>
+            <upper>KITE</upper> 
+			<lower>kite</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ll</title>
+            <instance>Ll</instance>
+            <upper>LOLLIPOP</upper> 
+			<lower>lollipop</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Mm</title>
+            <instance>Mm</instance>
+            <upper>MONKEY</upper> 
+			<lower>monkey</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Nn</title>
+            <instance>Nn</instance>
+            <upper>NAIL</upper> 
+			<lower>nail</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Oo</title>
+            <instance>Oo</instance>
+            <upper>OCTOPUS</upper> 
+			<lower>octopus</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Pp</title>
+            <instance>Pp</instance>
+            <upper>PENCIL</upper> 
+			<lower>pencil</lower>
+		</alphabets>
+		
+		<alphabets>
+			<title>Qq</title>
+            <instance>Qq</instance>
+            <upper>QUESTION</upper> 
+			<lower>question</lower>
+		</alphabets>  
+		
+		<alphabets>
+			<title>Rr</title>
+            <instance>Rr</instance>
+            <upper>ROSE</upper> 
+			<lower>rose</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ss</title>
+            <instance>Ss</instance>
+            <upper>SNAKE</upper> 
+			<lower>snake</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Tt</title>
+            <instance>Tt</instance>
+            <upper>TRAIN</upper> 
+			<lower>train</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Uu</title>
+            <instance>Uu</instance>
+            <upper>UMBRELLA</upper> 
+			<lower>umbrella</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Vv</title>
+            <instance>Vv</instance>
+            <upper>VIOLIN</upper> 
+			<lower>violin</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Ww</title>
+            <instance>Ww</instance>
+            <upper>WATERMELON</upper> 
+			<lower>watermelon</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Xx</title>
+            <instance>Xx</instance>
+            <upper>XYLOPHONE</upper> 
+			<lower>Xylophone</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Yy</title>
+            <instance>Yy</instance>
+            <upper>YACHT</upper> 
+			<lower>yacht</lower>
+		</alphabets> 
+		
+		<alphabets>
+			<title>Zz</title>
+            <instance>Zz</instance>
+            <upper>ZERO</upper> 
+			<lower>zero</lower>
+		</alphabets> 
+		
+</list>

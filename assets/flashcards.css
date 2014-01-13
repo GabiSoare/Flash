@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.spcontainer {
+	position:absolute;
+	
+	right: 20px;
+}
+
+.ui-header .ui-title { 
+	margin-left: 1em; 
+	margin-right: 1em; 
+}
+
+wd {
+	font-size:32px;
+}
+
+#endPageContainer{
+	position:absolute; 
+	top:50%; 
+	height:10em; 
+	margin-top:-5em;
+	left:0;
+	right:0;
+}
+
+.container {
+	position:fixed;
+	bottom:60px;
+	left: 0;  
+	right: 0;
+	text-align:center;
+}
+
+
+
+#alphaupper {
+	font-size:250%;	
+}
+
+#alphalower {
+	font-size:250%;
+}
+
+#alphaPage li {
+	font-size:x-large;
+	padding-left:20px;
+	padding-top:10px;
+	padding-bottom:15px;
+}
+
+
+
+
+
+
+
+
+body{
+	background: url("../images/slider-bg-bottom.png") repeat;
+	color: #000;
+}
+
+
+.result{
+	display:none;
+	z-index: 1010;
+	top: 0px;
+	width:100%;
+	height:100%;
+}
+
+#r1,#r2,#r3{
+	padding-left: 50px;
+	padding-top: 20px;
+	margin-left: 35px;
+	margin-top: 20px;	
+	 
+} 
+
+img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+
+}
