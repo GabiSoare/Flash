@@ -776,6 +776,8 @@
                                     //console.log(event.srcElement.outerText);
 
                                     if (idWordDrop == wordCorrect.upper.trim()) {
+										//CORRECT SOUND
+										playAudio(getPath() + "sounds/correct.mp3");
                                         lockDropCheck = true;
                                         
                                         $(this).removeClass("area-image-word-warning ");
@@ -783,10 +785,7 @@
                                         ds.numberCorrect++;
                                         ds.numberAnswered++;
                                         $("#idNumberAnswed").html(ds.numberAnswered);
-
-                                        playAudio(getPath() + "sounds/correct.mp3");
-
-                                        
+                                                                                
                                         $('#idQuestionCorrect').html(ds.numberCorrect);
 
                                         var elementAreaDrop = $("#idAreaDrop");
