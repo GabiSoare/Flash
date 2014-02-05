@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <list>
-
  		<alphabets>
             <title>Aa</title>
             <instance>Aa</instance>
@@ -182,6 +181,5 @@
             <instance>Zz</instance>
             <upper>ZERO</upper> 
 			<lower>zero</lower>
-		</alphabets> 
-		
+		</alphabets> 		
 </list>
